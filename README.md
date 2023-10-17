@@ -9,13 +9,15 @@ Infine scrivi sulla pagina: "nomecognomecolorepreferito21"
 
 **Raccolta dei dati**
 
-1. Chiedere all'utente il suo nome;
-2. Chiedere all'utente il suo cognome;
-3. Chiedere all'utente il suo colore preferito;
-4. Prendiamo il dato "21" dalla consegna;
+1. Prendiamo il dato "21" dalla consegna;
+2. Chiedere all'utente il suo nome;
+3. Chiedere all'utente il suo cognome;
+4. Chiedere all'utente il suo colore preferito;
 
 **Logica del programma**
 
-Analizzare le risposte dell'utente;
-Aggiungere il dato presente nella consegna alle risposte dell'utente;
-Output Stampa del risultato;
+1. Analizzare le risposte dell'utente;
+2. Aggiungere il dato presente nella consegna alle risposte dell'utente
+3. Preparare il messaggio della password generata;
+
+Output Stampa della Password generata;
