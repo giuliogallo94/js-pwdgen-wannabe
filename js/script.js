@@ -19,8 +19,14 @@ console.log(color);
 const generatedPassword = nome + lastName + color + lastNumber;
 console.log(generatedPassword);
 
-const message = `La password generata per te è: ${generatedPassword}`;
-console.log(message);
+// const message = `La password generata per te è: ${generatedPassword}`;
+// console.log(message);
+
+const message = `<h2>Ciao ${nome}!</h2>
+<p>Ecco la tua password sicura:
+<span>${generatedPassword}</span>
+</p>
+<p>Usala dappertutto, ${nome}</p>`;
 
 // // Output
 document.getElementById("generatedPassword").innerHTML = message;
